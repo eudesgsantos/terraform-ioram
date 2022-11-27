@@ -1,4 +1,4 @@
-# Resolução Desafio DevOps (Eudes Santos) 
+# Resolução Av2 Ioram
 
 Foi desenvolvida um infraestrutura serverless para cointaners usando Fargate e utilizando das melhores práticas de infraestrutura Cloud Native
 Características a serem pontuadas:
